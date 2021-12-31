@@ -1,0 +1,205 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wiktionnaire</sitename>
+    <dbname>frwiktionary</dbname>
+    <base>https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil</base>
+    <generator>MediaWiki 1.38.0-wmf.9</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionnaire</namespace>
+      <namespace key="5" case="case-sensitive">Discussion Wiktionnaire</namespace>
+      <namespace key="6" case="case-sensitive">Fichier</namespace>
+      <namespace key="7" case="case-sensitive">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="case-sensitive">Modèle</namespace>
+      <namespace key="11" case="case-sensitive">Discussion modèle</namespace>
+      <namespace key="12" case="case-sensitive">Aide</namespace>
+      <namespace key="13" case="case-sensitive">Discussion aide</namespace>
+      <namespace key="14" case="case-sensitive">Catégorie</namespace>
+      <namespace key="15" case="case-sensitive">Discussion catégorie</namespace>
+      <namespace key="100" case="case-sensitive">Annexe</namespace>
+      <namespace key="101" case="case-sensitive">Discussion Annexe</namespace>
+      <namespace key="102" case="case-sensitive">Transwiki</namespace>
+      <namespace key="103" case="case-sensitive">Discussion Transwiki</namespace>
+      <namespace key="104" case="case-sensitive">Portail</namespace>
+      <namespace key="105" case="case-sensitive">Discussion Portail</namespace>
+      <namespace key="106" case="case-sensitive">Thésaurus</namespace>
+      <namespace key="107" case="case-sensitive">Discussion Thésaurus</namespace>
+      <namespace key="108" case="case-sensitive">Projet</namespace>
+      <namespace key="109" case="case-sensitive">Discussion Projet</namespace>
+      <namespace key="110" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="111" case="case-sensitive">Discussion Reconstruction</namespace>
+      <namespace key="112" case="case-sensitive">Tutoriel</namespace>
+      <namespace key="113" case="case-sensitive">Discussion Tutoriel</namespace>
+      <namespace key="114" case="case-sensitive">Rime</namespace>
+      <namespace key="115" case="case-sensitive">Discussion Rime</namespace>
+      <namespace key="116" case="case-sensitive">Conjugaison</namespace>
+      <namespace key="117" case="case-sensitive">Discussion Conjugaison</namespace>
+      <namespace key="118" case="case-sensitive">Racine</namespace>
+      <namespace key="119" case="case-sensitive">Discussion Racine</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Discussion module</namespace>
+      <namespace key="1198" case="case-sensitive">Translations</namespace>
+      <namespace key="1199" case="case-sensitive">Translations talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>accueil</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>29620653</id>
+      <parentid>29589294</parentid>
+      <timestamp>2021-08-26T09:20:03Z</timestamp>
+      <contributor>
+        <username>Destraak</username>
+        <id>308464</id>
+      </contributor>
+      <comment>/* Étymologie */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6570" xml:space="preserve">{{voir|Accueil}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{refnec|{{siècle|XII}} {{déverbal|de=accueillir|lang=fr|m=1}}.}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|a.kœj}}
+[[Fichier:De balie van de Kamer van Koophandel, Nassauplein 4. NL-HlmNHA 54014414.JPG|vignette|L''''accueil''' d'une chambre de commerce aux Pays-Bas. (2)]]
+[[Fichier:Wikipedia2013.jpg|vignette|Page d’'''accueil''' de Wikipedia en vietnamien. (4)]]
+'''accueil''' {{pron|a.kœj|fr}} {{m}}
+# [[cérémonie|Cérémonie]] ou [[prestation]] réservée à un nouvel [[arrivant]], consistant généralement à lui [[souhaiter]] la [[bienvenue]] et à l’aider dans son [[intégration]] ou ses [[démarche]]s.
+#* ''Nous réservâmes aux nouveaux venus un '''accueil''' qui fut cordial et empressé, mais le temps n’était pas aux effusions et d’un commun avis, il fallait agir vite.'' {{source|{{w|Jean-Baptiste Charcot}}, ''Dans la mer du Groenland'', 1928}}
+#* ''Partout elle avait trouvé bon '''accueil''', prompt assentiment, mais elle se propose d’aller plus outre.'' {{source|{{Citation/Jean Rogissart/Passantes d’Octobre/1958|}}}}
+#* ''Notre hôte, absent au moment de notre arrivée, ne tarde pas à paraître et me fait l’'''accueil''' auquel je m'attendais de sa part.'' {{source|{{w|Frédéric Weisgerber}}, ''Trois mois de campagne au Maroc : étude géographique de la région parcourue'', Paris : Ernest Leroux, 1904, page 38}}
+# [[lieu|Lieu]] où sont accueillies les [[personne]]s.
+#* ''À l’'''accueil''', ils t’expliqueront comment aller à son bureau.''
+# {{vieilli|fr}} Fait d’[[accueillir]] ou [[héberger]].
+#* ''Le Maire rappelle au conseil municipal que l’'''accueil''' périscolaire aura lieu à la rentrée de septembre 2008–2009 dans la salle de réunions et le petit local attenant.'' {{source|[[Le Chesne]], Conseil municipal du 27 juin 2008}}
+# [[page|Page]] d’[[accès]] ou d’accueil (lieu ci-dessus) à un site [[web]].
+# Manière dont une [[œuvre]] a été acceptée lors de sa sortie par le [[public]] et les [[critique]]s.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[accueil de loisirs]]
+* [[agent d’accueil]]
+* [[émission d’accueil]]
+* [[faire bon accueil]]
+* [[faire mauvais accueil]]
+* [[famille d’accueil]]
+* [[page d’accueil]]
+* [[plage d’accueil]]
+* [[station d’accueil]]
+{{)}}
+
+==== {{S|apparentés}} ====
+* [[accueillir]]
+* [[accueillant]]
+
+==== {{S|synonymes}} ====
+* [[home]] ''(site web)'' ''{{angl|nocat=1}}
+* [[main page]] ''(site web)'' {{angl|nocat=1}}
+* [[page d’accueil]] ''(site web)''
+
+==== {{S|traductions}} ====
+{{trad-début|Cérémonie|1}}
+* {{T|de}} : {{trad+|de|Aufnahme|f}}, {{trad+|de|Empfang|m}}
+* {{T|en}} : {{trad+|en|welcome}} {{vieilli|nocat=1}}, {{trad+|en|reception}}, {{trad+|en|acceptance}}
+* {{T|ary}} : {{trad--|ary|إستقبال}}
+* {{T|hr}} : {{trad-|hr|prijam}}, {{trad-|hr|prijem}}, {{trad-|hr|doček}}
+* {{T|it}} : {{trad+|it|accoglienza|f}}
+* {{T|avk}} : {{trad--|avk|emudera}}
+* {{T|mg}} : {{trad+|mg|fandraisana}}
+* {{T|nl}} : {{trad+|nl|onthaal|n}}, {{trad+|nl|ontvangst|f}}
+* {{T|pt}} : {{trad+|pt|recepção|f}}, {{trad+|pt|acolhida|f}}
+* {{T|ro}} : {{trad+|ro|primire|f}}, {{trad-|ro|întampinare}}
+* {{T|ru}} : {{trad+|ru|приветствие|tr=privetstviye}}
+* {{T|sc}} : {{trad--|sc|accoglientzia|f}}
+* {{T|sv}} : {{trad+|sv|mottagande}}
+* {{T|ta}} : {{trad+|ta|வரவேற்பு|R=varavēṟpu}}
+{{trad-fin}}
+{{trad-début|Lieu|2}}
+* {{T|af}} : {{trad+|af|tuiste}}
+* {{T|de}} : {{trad+|de|Empfang|m}}, {{trad+|de|Rezeption|f}}
+* {{T|en}} : {{trad+|en|reception}} (''desk'' = d’une société), {{trad+|en|courtesy}} (''counter, booth, desk'') {{États-Unis|nocat=1}}, {{trad+|en|customer service}} (''desk, booth, center'') {{États-Unis|nocat=1}}
+* {{T|hr}} : {{trad-|hr|recepcija}}
+* {{T|da}} : {{trad+|da|reception|c}}
+* {{T|es}} : {{trad+|es|recepción}}
+* {{T|avk}} : {{trad--|avk|emudexo}}
+* {{T|nl}} : {{trad+|nl|onthaal|n}}, {{trad+|nl|balie|f}}, {{trad+|nl|receptie|f}}
+* {{T|pt}} : {{trad+|pt|recepção}}
+* {{T|ru}} : {{trad+|ru|приём}}
+* {{T|sv}} : {{trad+|sv|mottagande}}
+{{trad-fin}}
+{{trad-début|Fait d’accueillir|3}}
+* {{T|de}} : {{trad+|de|Aufnahme|f}}, {{trad+|de|Unterbringung|f}}, {{trad-|de|Beherbergung|f}}
+* {{T|en}} : {{trad+|en|reception}}
+* {{T|az}} : {{trad+|az|qəbul}}
+* {{T|eu}} : {{trad+|eu|harrera}}
+* {{T|hr}} : {{trad-|hr|prihvat}}
+* {{T|it}} : {{trad+|it|accoglienza|f}}
+* {{T|avk}} : {{trad--|avk|emudera}}
+* {{T|nl}} : {{trad+|nl|onthaal|n}}, {{trad+|nl|ontvangst|m}}
+* {{T|pln}} : {{trad--|pln|atendimiento}}
+* {{T|pt}} : {{trad+|pt|recepção}}
+* {{T|ro}} : {{trad-|ro|a întampina}}, {{trad-|ro|a primi}}
+* {{T|cs}} : {{trad-|cs|hoštění}}, {{trad+|cs|pohoštění}}
+{{cf|accueillir}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+* {{T|af|trier}} : {{trad-|af|ontvangs}}, {{trad-|af|tuis}}
+* {{T|de|trier}} : {{trad+|de|Empfang|m}}, {{trad+|de|Annahme}}, {{trad+|de|Aufnahme}}, {{trad+|de|Zusage}}, {{trad-|de|Entgegennahme}}, {{trad+|de|Akzept}}
+* {{T|ar|trier}} : {{trad-|ar|istikbale}}
+* {{T|ca|trier}} : {{trad-|ca|acollença}}, {{trad+|ca|acollida}}, {{trad+|ca|acolliment}}, {{trad+|ca|acull}}
+* {{T|es|trier}} : {{trad+|es|acogida}}, {{trad+|es|aceptación}}, {{trad+|es|admisión}}
+* {{T|eo|trier}} : {{trad-|eo|bonvenon}}, {{trad-|eo|akcepto}}
+* {{T|fi|trier}} : {{trad+|fi|hyväksyminen}}
+* {{T|fy|trier}} : {{trad-|fy|oanfurdigjen}}
+* {{T|ht|trier}} : {{trad--|ht|bèlantre}}
+* {{T|hu|trier}} : {{trad+|hu|elfogadás}}
+* {{T|id|trier}} : {{trad+|id|sambutan}}, {{trad+|id|rumah}}
+* {{T|it|trier}} : {{trad+|it|accoglienza}}, {{trad+|it|accoglimento}}
+* {{T|la|trier}} : {{trad-|la|acceptatio}}
+* {{T|ms|trier}} : {{trad-|ms|penerimaan}}
+* {{T|mg}} : {{trad+|mg|fandraisana}}
+* {{T|nl|trier}} : {{trad+|nl|ontvangst}}, {{trad+|nl|acceptatie}}, {{trad+|nl|aanneming}}, {{trad+|nl|aanvaarding}}
+* {{T|oc|trier}} : {{trad-|oc|acuèlh}}
+* {{T|pcd|trier}} : {{trad--|pcd|aceùy}}
+* {{T|pt|trier}} : {{trad+|pt|bem-vindo}}, {{trad+|pt|aceitação}}, {{trad+|pt|acolhida}}, {{trad+|pt|acolhimento}}, {{trad+|pt|admissão}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|a.kœj|fr}}
+* {{pron|a.kœj|fr}}
+** {{écouter|lang=fr|France (Paris)|titre=un accueil|ɛ̃.n‿a.kœj|audio=Fr-accueil.ogg}}
+** {{écouter|lang=fr|France (Vosges)|a.kœj|audio=LL-Q150 (fra)-LoquaxFR-accueil.wav}}
+
+=== {{S|anagrammes}} ===
+* [[acicule]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:TLFi}}
+* {{Import:DAF8}}
+* Petit Robert 1, dictionnaire de la langue française,1990.</text>
+      <sha1>n4hwjh1dc3br030esvrzpb8z2ymg7wc</sha1>
+    </revision>
+  </page>
+</mediawiki>
