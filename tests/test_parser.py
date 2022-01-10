@@ -17,13 +17,28 @@ class ParserTest(unittest.TestCase):
                 'pronunciation': bytes('a.kœj', encoding='utf-8'),
                 'pos': bytes('nom', encoding='utf-8'),
                 'definition': "1. Cérémonie ou prestation réservée à un nouvel arrivant, consistant généralement à lui souhaiter la bienvenue et à l'aider dans son intégration ou ses démarches.\n2. Lieu où sont accueillies les personnes.\n3. (vieilli) Fait d'accueillir ou héberger.\n4. Page d'accès ou d'accueil (lieu ci-dessus) à un site web.\n5. Manière dont une œuvre a été acceptée lors de sa sortie par le public et les critiques.",
-                'examples': "",
-                'audio': '',
                 'id': 0,
             }
         ]
         actual = list(p.parse())
         self.assertDictEqual(expected[0], actual[0])
+
+    def test_parser_parses_single_noun_xml_with_out_of_order_images_into_correct_json(self):
+        input_filename = os.path.join(FIXTURES_DIR, 'single_noun_out_of_order_images.xml')
+        p = Parser('fr', input_filename)
+        expected = [
+            {
+                'term': bytes('travaux', encoding='utf-8'),
+                'altterm': '',
+                'pronunciation': bytes('tʁa.vo', encoding='utf-8'),
+                'pos': bytes('nom', encoding='utf-8'),
+                'definition': "1. Pluriel de travail : Suite d'études, d'opérations, d'entreprises, pour élaborer, construire, édifier, quelque chose.\n2. Chantier.\n3. Désigne l'ensemble des résultats obtenus par un scientifique.\n4. Opérations sylvicoles nécessitant un investissement, des dépenses nettes.",
+                'id': 0,
+            }
+        ]
+        actual = list(p.parse())
+        self.assertDictEqual(expected[0], actual[0])
+
 
     def test_extract_definitions_numbers_the_definitions(self):
         input_text = "# [[lieu|Lieu]] où sont accueillies les [[personne]]s.\n" \

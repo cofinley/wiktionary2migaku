@@ -1,0 +1,122 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wiktionnaire</sitename>
+    <dbname>frwiktionary</dbname>
+    <base>https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil</base>
+    <generator>MediaWiki 1.38.0-wmf.9</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionnaire</namespace>
+      <namespace key="5" case="case-sensitive">Discussion Wiktionnaire</namespace>
+      <namespace key="6" case="case-sensitive">Fichier</namespace>
+      <namespace key="7" case="case-sensitive">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="case-sensitive">Modèle</namespace>
+      <namespace key="11" case="case-sensitive">Discussion modèle</namespace>
+      <namespace key="12" case="case-sensitive">Aide</namespace>
+      <namespace key="13" case="case-sensitive">Discussion aide</namespace>
+      <namespace key="14" case="case-sensitive">Catégorie</namespace>
+      <namespace key="15" case="case-sensitive">Discussion catégorie</namespace>
+      <namespace key="100" case="case-sensitive">Annexe</namespace>
+      <namespace key="101" case="case-sensitive">Discussion Annexe</namespace>
+      <namespace key="102" case="case-sensitive">Transwiki</namespace>
+      <namespace key="103" case="case-sensitive">Discussion Transwiki</namespace>
+      <namespace key="104" case="case-sensitive">Portail</namespace>
+      <namespace key="105" case="case-sensitive">Discussion Portail</namespace>
+      <namespace key="106" case="case-sensitive">Thésaurus</namespace>
+      <namespace key="107" case="case-sensitive">Discussion Thésaurus</namespace>
+      <namespace key="108" case="case-sensitive">Projet</namespace>
+      <namespace key="109" case="case-sensitive">Discussion Projet</namespace>
+      <namespace key="110" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="111" case="case-sensitive">Discussion Reconstruction</namespace>
+      <namespace key="112" case="case-sensitive">Tutoriel</namespace>
+      <namespace key="113" case="case-sensitive">Discussion Tutoriel</namespace>
+      <namespace key="114" case="case-sensitive">Rime</namespace>
+      <namespace key="115" case="case-sensitive">Discussion Rime</namespace>
+      <namespace key="116" case="case-sensitive">Conjugaison</namespace>
+      <namespace key="117" case="case-sensitive">Discussion Conjugaison</namespace>
+      <namespace key="118" case="case-sensitive">Racine</namespace>
+      <namespace key="119" case="case-sensitive">Discussion Racine</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Discussion module</namespace>
+      <namespace key="1198" case="case-sensitive">Translations</namespace>
+      <namespace key="1199" case="case-sensitive">Translations talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>accueil</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>29620653</id>
+      <parentid>29589294</parentid>
+      <timestamp>2021-08-26T09:20:03Z</timestamp>
+      <contributor>
+        <username>Destraak</username>
+        <id>308464</id>
+      </contributor>
+      <comment>/* Étymologie */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6570" xml:space="preserve">== {{langue|fr}} ==
+=== {{S|nom|fr|flexion}} ===
+{{fr-accord-mf|s=travail|p=travaux|ps=tʁa.vaj|pp=tʁa.vo}}
+'''travaux''' {{pron|tʁa.vo|fr}} {{m}}
+[[Fichier:Mouscron, travaux Grand-Place J4d.jpg|vignette|Des '''travaux''' (2).]]
+# ''Pluriel de'' [[travail]] : [[suite|Suite]] d’[[étude]]s, d’[[opération]]s, d’[[entreprise]]s, pour [[élaborer]], [[construire]], [[édifier]], [[quelque chose]].
+#* ''Les '''travaux''' d’Hercule.''
+#* ''Ils gèrent leur domaine en exploitation semi-directe, par l’intermédiaire d’un régisseur qui a la haute main sur les '''travaux''' et les ouvriers, le plus souvent des ouvriers employés au mois, "mesadiers" venus de la montagne et plus dociles que les journaliers venus du village voisin.'' {{source|Yvette Maurin, « ''La propriété en Bitterois, au moment de la crise de 1907'' », dans ''Des vignobles et des vins à travers le monde: hommage à Alain Huetz de Lemps'', sous la direction de Philippe Roudié, Presses Universitaires de Bordeaux, 1996, page 214}}
+#* ''Le soum-soum, vendu entre 25 et 35 F CFA le verre à thé et environ 600 F CFA le litre, constitue une source de revenus pendant l’hivernage, période durant laquelle la récolte du vin n'est que rarement pratiquée à cause de la mobilisation générale de toute la main-d’œuvre pour les '''travaux''' champêtres.'' {{source|Pierre Nicolas, Malick Gaye, ''Naissance d’une ville au Sénégal : évolution d'un groupe de six villages de Casamance vers une agglomération urbaine'', éditions Karthala, 1988, page 95}}
+# [[chantier|Chantier]].
+#* ''Les ouvriers ont démarré les '''travaux'''.''
+#* ''Les '''travaux''' de remise en état et d’aménagement commencent dans les premiers jours de mai.'' {{source|Paul Villevieille, ''Blanc'', 2015}}
+# {{lexique|sciences|fr}} Désigne l’ensemble des résultats obtenus par un scientifique.
+#* ''Les '''travaux''' de [[w:Évariste Galois|Galois]], les '''travaux''' de [[Richard Feynman|Feynman]], etc.''
+# {{lexique|foresterie|fr}} [[opération|Opérations]] sylvicoles nécessitant un [[investissement]], des dépenses nettes.
+#* ''Cette préconisation de substituer si nécessaire une intervention en '''travaux''' à la première éclaircie a un coût. Il peut paraître paradoxal qu’un guide propose une intervention supplémentaire en '''travaux''' à une époque où les gestionnaires forestiers privés ou publics, dans la plupart des pays industrialisés, cherchent à réduire de manière significative le coût de leur sylviculture.'' {{source|Thierry Sardin, ''Chênaies continentales'', {{w|Office national des forêts}}, 2008, {{ISBN|978-2-84207-321-3}}|lien=https://tice.agroparistech.fr/coursenligne/main/document/document.php?cidReq=26674&action=download&id=/Exercice_1_Amenagement_Foret_de_Flavigny/Guide_sylviculture_Chene_continental.pdf}}
+
+==== {{S|antonymes}} ====
+* [[coupe]] {{info lex|foresterie}}
+
+==== {{S|dérivés}} ====
+* [[conducteur de travaux]]
+* [[conductrice de travaux]]
+
+==== {{S|traductions}} ====
+{{trad-début|Suite d’opérations, d’entreprises, pour élaborer quelque chose|1}}
+* {{T|es}} : {{trad+|es|obras|f}}
+{{trad-fin}}
+
+{{trad-début|Chantier|2}}
+* {{T|en}} : {{trad+|en|work}}
+* {{T|fsl}} : {{wikisign}}
+{{trad-fin}}
+
+{{trad-début|Ensemble des résultats obtenus par un scientifique|3}}
+{{ébauche-trad}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{pron|tʁa.vo|fr}}
+** {{écouter|France (Île-de-France)|tʁa.vo|lang=fr|audio=Fr-Paris--travaux.ogg}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-travaux.wav}}
+
+[[Catégorie:Traductions en langue des signes française]]
+[[Catégorie:Pluriels irréguliers en français]]
+</text>
+      <sha1>n4hwjh1dc3br030esvrzpb8z2ymg7wc</sha1>
+    </revision>
+  </page>
+</mediawiki>

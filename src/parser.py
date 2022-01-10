@@ -11,7 +11,7 @@ class Parser:
         self.language = self.get_language()
         self.input_filename = input_filename
         # Terms
-        self.TERM_PATTERN = r"(?P<word_template>^=== {{S\|(?P<word_type>" + '|'.join(self.language.WORD_TYPES) + ")\|" + self.language_code + "(?:\||}}).*)(?:.*\n)+?(?P<title_group>^'''.*\n)(?P<defs>(?:^#.*\n)*)"
+        self.TERM_PATTERN = r"(?P<word_template>^=== {{S\|(?P<word_type>" + '|'.join(self.language.WORD_TYPES) + ")\|" + self.language_code + "(?:\||}}).*)(?:.*\n)+?(?P<title_group>^'''.*\n)(?:^[^#].*\n)*(?P<defs>(?:^#.*\n)*)"
         # Break apart title line ('''...''' ...)
         self.TITLE_LINE_PATTERN = r"^'''(?P<title>.+)(?=''')'''\s?(?:{{pron\|(?P<ipa>[^|]*)\|[^}]+}}(?P<rest>.*))?"
         # Definition line
@@ -55,8 +55,6 @@ class Parser:
             'pronunciation': ipa,
             'pos': word_type,
             'definition': definitions,
-            'examples': '',
-            'audio': ''
         }
 
     @staticmethod
