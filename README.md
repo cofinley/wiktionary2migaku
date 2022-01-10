@@ -8,6 +8,10 @@ The parser uses regex and generators to quickly sift through the large database 
 
 Before continuing, check the [languages](./src/languages) folder to see if your language is supported. This project was created for parsing the French Wiktionary and currently only supports that language. The editing standards may also be different and require different regex.
 
+## Created Dictionaries
+
+- [French](https://drive.google.com/file/d/1PoU1rbaaqtMWIiYagnk4P4d1v8FiuFDS/view?usp=sharing)
+
 ## Installation
 
 1. Get the database dump from [Wikimedia Downloads](https://dumps.wikimedia.org/backup-index.html)
@@ -39,6 +43,10 @@ optional arguments:
                         Don't use progress bar. Faster since it skips the
                         initial count of total terms, but does not give an
                         ETA.
+  -p, --single-process  Run as single process (slower)
+  -r, --reuse-partition-files
+                        Reuse partitioned dump files for quicker testing. Does
+                        not apply if using -p/--single-process.
   -l LANGUAGE_CODE, --language-code LANGUAGE_CODE
                         Wiktionary Language Code
   -i INPUT_FILE, --input-file INPUT_FILE
