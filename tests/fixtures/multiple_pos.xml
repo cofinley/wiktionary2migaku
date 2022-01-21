@@ -1,0 +1,262 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wiktionnaire</sitename>
+    <dbname>frwiktionary</dbname>
+    <base>https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil</base>
+    <generator>MediaWiki 1.38.0-wmf.9</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionnaire</namespace>
+      <namespace key="5" case="case-sensitive">Discussion Wiktionnaire</namespace>
+      <namespace key="6" case="case-sensitive">Fichier</namespace>
+      <namespace key="7" case="case-sensitive">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="case-sensitive">Modèle</namespace>
+      <namespace key="11" case="case-sensitive">Discussion modèle</namespace>
+      <namespace key="12" case="case-sensitive">Aide</namespace>
+      <namespace key="13" case="case-sensitive">Discussion aide</namespace>
+      <namespace key="14" case="case-sensitive">Catégorie</namespace>
+      <namespace key="15" case="case-sensitive">Discussion catégorie</namespace>
+      <namespace key="100" case="case-sensitive">Annexe</namespace>
+      <namespace key="101" case="case-sensitive">Discussion Annexe</namespace>
+      <namespace key="102" case="case-sensitive">Transwiki</namespace>
+      <namespace key="103" case="case-sensitive">Discussion Transwiki</namespace>
+      <namespace key="104" case="case-sensitive">Portail</namespace>
+      <namespace key="105" case="case-sensitive">Discussion Portail</namespace>
+      <namespace key="106" case="case-sensitive">Thésaurus</namespace>
+      <namespace key="107" case="case-sensitive">Discussion Thésaurus</namespace>
+      <namespace key="108" case="case-sensitive">Projet</namespace>
+      <namespace key="109" case="case-sensitive">Discussion Projet</namespace>
+      <namespace key="110" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="111" case="case-sensitive">Discussion Reconstruction</namespace>
+      <namespace key="112" case="case-sensitive">Tutoriel</namespace>
+      <namespace key="113" case="case-sensitive">Discussion Tutoriel</namespace>
+      <namespace key="114" case="case-sensitive">Rime</namespace>
+      <namespace key="115" case="case-sensitive">Discussion Rime</namespace>
+      <namespace key="116" case="case-sensitive">Conjugaison</namespace>
+      <namespace key="117" case="case-sensitive">Discussion Conjugaison</namespace>
+      <namespace key="118" case="case-sensitive">Racine</namespace>
+      <namespace key="119" case="case-sensitive">Discussion Racine</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Discussion module</namespace>
+      <namespace key="1198" case="case-sensitive">Translations</namespace>
+      <namespace key="1199" case="case-sensitive">Translations talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+<page>
+    <title>droite</title>
+    <ns>0</ns>
+    <id>2283</id>
+    <revision>
+      <id>29852387</id>
+      <parentid>29852340</parentid>
+      <timestamp>2021-10-04T20:12:09Z</timestamp>
+      <contributor>
+        <username>Sebleouf</username>
+        <id>5512</id>
+      </contributor>
+      <minor />
+      <comment>Révocation des modifications de [[Special:Contributions/Le Chevallier au Pancréas|Le Chevallier au Pancréas]] ([[User talk:Le Chevallier au Pancréas|discussion]]) vers la dernière version de [[:User:François GOGLINS|François GOGLINS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11112" xml:space="preserve">== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{cf|droit}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|dʁwat}}
+[[File:Go-next.svg|thumb|upright=0.5|Une [[flèche]] pointant vers la '''droite'''.]]
+'''droite''' {{pron|dʁwat|fr}} {{f}}
+# [[côté|Côté]] [[droit]].
+#* ''À sa gauche et à sa '''droite''', deux minuscules galeries dessinaient les bras de croix d’un petit transept.'' {{source|{{w|Joris-Karl Huysmans}}, ''[[s:La Cathédrale/IV|La Cathédrale]]'', Plon-Nourrit, 1915}}
+#* ''Nous envoyons les dragons en éclaireurs, mais rien à '''droite''', rien à gauche, et, devant nous, à cinq cents mètres, la colline et la forêt.'' {{source|{{w|Jean Giraudoux}}, ''Retour d’Alsace - Août 1914'', 1916}}
+# [[voie|Voie]] [[à droite]] du conducteur.
+#* ''Céder la '''droite'''.''
+#* ''Tenir la '''droite'''.''
+# {{ellipse|fr}} [[main droite|Main droite]].
+# {{par ext}} {{populaire|fr}} Coup donné avec la main.
+#* ''Tais-toi avant que je te mette une '''droite''' !''
+#* ''Petit Papa Noël&lt;br /&gt;Toi qu’est descendu du ciel&lt;br /&gt;Retourne-s-y vite fait bien fait&lt;br /&gt;Avant que j’te colle une '''droite'''&lt;br /&gt;Avant que j’t’allonge une patate&lt;br /&gt;Qu’j’te fasse une tête au carré !'' {{source|{{w|Renaud}}, ''Le Père Noël noir''}}
+# {{lexique|politique|sociologie|fr}} Terme regroupant divers courants politiques manifestant un attachement à la [[liberté]], à l’ordre, considéré comme juste ou comme un moindre mal, réprouvant les changements brusques sur les questions de société et les questions éthiques, ainsi nommé parce qu’il s’est principalement manifesté à l’origine par les [[parti]]s [[conservateur]]s ou [[réactionnaire]]s qui siégeaient originellement (à partir de la Révolution) à droite du président de l’[[assemblée]].
+#* '' J'dis pas que Louis était toujours très social, non, il avait l'esprit de '''droite'''. Quand tu parlais augmentation ou vacances, il sortait son flingue avant que t'aies fini.'' {{source|{{w|Michel Audiard}}, ''{{w|Les Tontons flingueurs}}'' , film de {{w|Georges Lautner}}, 1963}}
+#* ''On diagnostiquera à juste titre ce que Besnier-Thomas nomment « une maladie de la volonté ». Mais cette maladie est peut-être davantage qu'une aboulie. La gauche « qui ne sait plus ce qu'elle veut » ne se contente plus de se taire, mais prend l'habitude de faire sien le grand discours de régression d'une '''droite''' dont elle envie la bonne santé, d'une '''droite''' à l'entrain réactionnaire communicatif.'' {{source|Élisabeth Guibert-Sledziewski, ''Une culture de régression'', dans ''Flash sur la droite'', {{w|Raison présente}} n° 88, 4{{e}} trimestre 1988, page 115}}
+#* ''Si les musulmans radicaux sont la nouvelle '''droite''', ils partagent avec l'ancienne une opinion pessimiste de la civilisation moderne décadente.'' {{source|Panayiotis Jerasimof Vatikiotis, ''L’Islam et l’État'', 1987, traduction d’Odette Guitard, 1992, page 111}}
+#* ''Mais ce que disent ces hommes de gauche, une fois libérés des pesanteurs de l’appareil, n’est rien d’autre que ce que la '''droite''' soutient…'' {{source|{{w|Ivan Rioufol}}, ''[http://blog.lefigaro.fr/rioufol/2010/06/le-gouvernement-condamne-a-agi.html Le gouvernement, condamné à agir]'', ''Les blogs du Figaro'', 25 juin 2010}}
+#* ''Les radsocs de l'époque, véritables précurseurs de la social-démocratie, situés à la '''droite''' de socialistes sur le demi-camembert électoral, passeraient aujourd'hui pour des gauchistes.'' {{source|{{w|Périco Légasse}}, ''Que la gauche redevienne cassoulet !'', dans ''{{w|Marianne (magazine)|Marianne}}'', n° 772, 11 février 2012, page 82}}
+#* ''Ce matin-là, sur Facebook, des gens de '''droite''' se scandalisaient de l'existence de gens de gauche, complètement déconnectés des vraies exigences de la vraie vie, pendant que des gens de gauche se scandalisaient de l'existence de gens de '''droite''', complètement déconnectés des vraies exigences de la vraie vie. Tous utilisaient exactement les mêmes raccourcis intellectuels qu'ils critiquaient chez le camp adverse.'' {{source|Thomas O. St-Pierre, ''Charlotte ne sourit pas'', Leméac, 2016, page 111}}
+# {{lexique|linguistique|fr}} Direction vers la [[fin]] d’une [[phrase]].
+#* ''Ce que j’ai essayé de faire apparaître, c’est : (i) que le syntagme nominal qui peut être déplacé vers la '''droite''' ne peut pas être déplacé vers la gauche, (ii) […]'' {{source|Michael Herslund, Carl Vikner, Ole Mørdrup et Finn Sørensen, ''Analyses grammaticales du français'', 1983}}
+# {{lexique|algèbre|géométrie|fr}} [[trait|Trait]] résultant de la relation algébrique entre des variables, ellipse de [[ligne droite]].
+#* ''La '''droite''' est le plus court chemin d’un point à un autre.''
+# {{lexique|algèbre|fr}} {{métaphore|fr}} [[espace vectoriel|Espace vectoriel]] de [[dimension]] un.
+#* ''L'expression « la '''droite''' des réels » exprime le fait que l'ensemble ℝ est isomorphe avec toute droite géométrique.''
+
+==== {{S|synonymes}} ====
+* [[dextre]]
+* [[tribord]] ''(navire)''
+
+==== {{S|antonymes}} ====
+* [[courbe]] {{info lex|mathématiques}}
+* [[gauche]]
+
+==== {{S|dérivés}} ====
+* [[à droite]]
+* [[donner la droite]] à quelqu’un, le mettre à sa droite pour lui faire honneur.
+* [[droitisation]]
+* [[droitiser]]
+* {{lien|droitisme|fr}}
+* {{lien|droitiste|fr}}
+* [[extrême droite]]
+* [[redroitiser]]
+* [[tenir sa droite]]
+* [[ultradroitier]]
+
+==== {{S|phrases}} ====
+* [[il ne faut pas que la main gauche sache ce que fait la droite]] ''(il faut faire le bien sans en parler)''
+
+==== {{S|traductions}} ====
+{{trad-début|Côté droit}}
+* {{T|de}} : {{trad+|de|Rechte|f}}
+* {{T|angevin}} : {{trad--|angevin|dret}}, {{trad--|angevin|droit}}
+* {{T|en}} : {{trad+|en|right}}
+* {{T|eu}} : {{trad-|eu|zuzen}}, {{trad+|eu|eskuma}}, {{trad+|eu|eskuin}}
+* {{T|bg}} : {{trad+|bg|десен}}
+* {{T|ca}} : {{trad+|ca|dreta}}
+* {{T|shy}} : {{trad--|shy|fus}}
+* {{T|zh}} : {{trad+|zh|右|tr=yòu}}，{{trad+|zh|右边|tr=yòubian|tradi=右邊}}, {{trad+|zh|右面|tr=yòumiàn}}, {{trad+|zh|右方|tr=yòufāng}}
+* {{T|ko}} : {{trad+|ko|오른쪽|tr=oreunjjok}}, {{trad-|ko|우측|tradi=右側|tr=ucheuk}}
+* {{T|hr}} : {{trad-|hr|desna strana}}, {{trad-|hr|u desno}}
+* {{T|da}} : {{trad+|da|højre}}
+* {{T|es}} : {{trad+|es|derecha}}
+* {{T|eo}} : {{trad-|eo|dekstro}}
+* {{T|et}} : {{trad-|et|parem}}
+* {{T|fi}} : {{trad+|fi|oikea}}
+* {{T|igs-gls}} : {{trad--|igs-gls|dextro}}
+* {{T|el}} : {{trad+|el|δεξιός|tr=dexiós}}
+* {{T|hbo}} : {{trad--|hbo|ימין|dif=יָמִין|f}}
+* {{T|hu}} : {{trad+|hu|jobb}}
+* {{T|io}} : {{trad+|io|rekto}}
+* {{T|it}} : {{trad+|it|destra|f}} (1) (2) (3) (4)
+* {{T|ja}} : {{trad+|ja|右|tr=migi}}, {{trad-|ja|右側|tr=migigawa}}, {{trad-|ja|右方|tr=uhō}}
+* {{T|lv}} : {{trad-|lv|labais}}
+* {{T|lt}} : {{trad-|lt|dešinys}}
+* {{T|mg}} : {{trad+|mg|ankavanana}}
+* {{T|mn}} : {{trad+|mn|баруун|tr=baruun}}
+* {{T|nl}} : {{trad+|nl|rechts}}, {{trad+|nl|rechterkant}}
+* {{T|ngh}} : {{trad--|ngh|kx’am}}
+* {{T|no}} : {{trad+|no|høyre}}
+* {{T|fa}} : {{trad+|fa|راست|tr=râst}}
+* {{T|pl}} : {{trad+|pl|prawy}}
+* {{T|pt}} : {{trad+|pt|direito}}
+* {{T|ro}} : {{trad+|ro|drept}}
+* {{T|ru}} : {{trad+|ru|правый}}
+* {{T|sk}} : {{trad-|sk|pravý}}
+* {{T|sl}} : {{trad-|sl|desni}}
+* {{T|sv}} : {{trad+|sv|höger}}
+* {{T|tl}} : {{trad-|tl|kanan}}
+* {{T|cs}} : {{trad+|cs|pravý}}
+* {{T|tr}} : {{trad+|tr|sağ}}
+* {{T|wa}} : {{trad+|wa|droete|f}}
+{{trad-fin}}
+{{trad-début|Voie à droite}}
+* {{T|de}} : {{trad+|de|Rechte|f}}
+* {{T|ca}} : {{trad+|ca|dreta}}
+* {{T|hr}} : {{trad-|hr|u desno}}, {{trad-|hr|nadesno}}
+* {{T|es}} : {{trad+|es|derecha}}
+{{trad-fin}}
+{{cf|main droite}}
+{{trad-début|Coup}}
+* {{T|ca}} : {{trad-|ca|mastegot}}
+* {{T|hr}} : {{trad-|hr|desni udarac}}
+* {{T|ja}} : {{trad+|ja|右|tr=migi}}, {{trad-|ja|右パンチ|tr=migi panchi}}
+{{trad-fin}}
+{{trad-début|Partis politiques}}
+* {{T|en}} : {{trad+|en|right}}
+* {{T|ca}} : {{trad+|ca|dreta}}
+* {{T|zh}} : {{trad+|zh|右派|tr=yòupài}}
+* {{T|hr}} : {{trad-|hr|desnica}}
+* {{T|eo}} : {{trad-|eo|dekstrularo}}
+* {{T|ja}} : {{trad+|ja|右翼|tr=uyoku}}, {{trad+|ja|右|tr=migi}}, {{trad+|ja|右派|tr=uha}}
+* {{T|wa}} : {{trad+|wa|droete|f}}
+{{trad-fin}}
+{{trad-début|Direction vers la fin d’une phrase}}
+* {{T|en}} : {{trad+|en|right}}
+* {{T|ca}} : {{trad+|ca|dreta}}
+* {{T|hr}} : {{trad+|hr|pravo}}
+{{trad-fin}}
+{{trad-début|Trait}}
+* {{T|en}} : {{trad+|en|line}}
+* {{T|ca}} : {{trad+|ca|dreta}}, {{trad-|ca|línia recta}}
+* {{T|zh}} : {{trad+|zh|直线|tr=zhíxiàn|tradi=直線}}
+* {{T|ko}} : {{trad+|ko|직선|tr=jikseon|tradi=直線}}
+* {{T|hr}} : {{trad+|hr|pravac}}
+* {{T|eo}} : {{trad-|eo|rekto}}
+* {{T|it}} : {{trad+|it|retta|f}}
+* {{T|ja}} : {{trad+|ja|直線|tr=chokusen}}
+* {{T|wa}} : {{trad+|wa|droete|f}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr|flexion}} ===
+{{fr-accord-cons|dʁwa|t|ms=droit}}
+'''droite''' {{pron|dʁwat|fr}}
+# ''Féminin singulier de'' [[droit#Adjectif|droit]].
+#* ''On côtoie ensuite la rive '''droite''' du Loing par un chemin ombragé fort agréable, qui traverse la Croisière, Dordives, où l'on entre dans le département du Loiret, Ferrières, Puits-la-Lande et Montargis, ville agréablement située sur la rivière et le canal du Loing.'' {{source|Eusèbe Girault de Saint-Fargeau, ''Panorama pittoresque de la France'', Paris, Firmin-Didot, 1839, page 2}}
+
+==== {{S|dérivés}} ====
+* [[à main droite]]
+* [[rive droite]]
+
+=== {{S|prononciation}} ===
+* {{pron|dʁwat|fr}}
+* {{écouter|lang=fr|France &lt;!-- précisez svp la ville ou la région --&gt;|dʁwat|audio=Fr-droite.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Roll-Morton-droite.wav}}
+* {{écouter|lang=fr|France (Massy)|audio=LL-Q150 (fra)-X-Javier-droite.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-droite.wav}}
+* {{écouter|lang=fr|France (Toulouse)|audio=LL-Q150 (fra)-Lepticed7-droite.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Penegal-droite.wav}}
+* {{écouter|lang=fr|France (Vosges)|audio=LL-Q150 (fra)-Poslovitch-droite.wav}}
+* {{écouter|lang=fr|France (Paris)||audio=LL-Q150 (fra)-Ash Crow-droite.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Madehub-droite.wav}}
+* {{écouter|lang=fr|France (Hérault)||audio=LL-Q150 (fra)-T. Le Berre-droite.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-droite.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Kaderousse-droite.wav}}
+* {{écouter|lang=fr|France (Cesseras)||audio=LL-Q150 (fra)-Guilhelma-droite.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-droite.wav}}
+* {{écouter|lang=fr|||audio=LL-Q150 (fra)-Fabe56-droite.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|anagrammes}} ===
+* [[redoit]]
+* [[todier]]
+* [[triode]]
+
+[[Catégorie:Lexique en français de la politique]]
+
+== {{langue|angevin}} ==
+=== {{S|étymologie}} ===
+: {{ébauche-étym|angevin}}
+
+=== {{S|nom|angevin}} ===
+'''droite''' {{pron||angevin}}
+# ''Variante de'' {{lien|dret|angevin}}.
+
+=== {{S|références}} ===
+* {{R:VerrierOnillon|p=2|vue=42}}</text>
+      <sha1>cmuepnbyatasr0t6qhejzqqcot2jhtp</sha1>
+    </revision>
+  </page>
+</mediawiki>

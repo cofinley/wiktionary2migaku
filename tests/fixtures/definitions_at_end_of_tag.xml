@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wiktionnaire</sitename>
+    <dbname>frwiktionary</dbname>
+    <base>https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil</base>
+    <generator>MediaWiki 1.38.0-wmf.9</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionnaire</namespace>
+      <namespace key="5" case="case-sensitive">Discussion Wiktionnaire</namespace>
+      <namespace key="6" case="case-sensitive">Fichier</namespace>
+      <namespace key="7" case="case-sensitive">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="case-sensitive">Modèle</namespace>
+      <namespace key="11" case="case-sensitive">Discussion modèle</namespace>
+      <namespace key="12" case="case-sensitive">Aide</namespace>
+      <namespace key="13" case="case-sensitive">Discussion aide</namespace>
+      <namespace key="14" case="case-sensitive">Catégorie</namespace>
+      <namespace key="15" case="case-sensitive">Discussion catégorie</namespace>
+      <namespace key="100" case="case-sensitive">Annexe</namespace>
+      <namespace key="101" case="case-sensitive">Discussion Annexe</namespace>
+      <namespace key="102" case="case-sensitive">Transwiki</namespace>
+      <namespace key="103" case="case-sensitive">Discussion Transwiki</namespace>
+      <namespace key="104" case="case-sensitive">Portail</namespace>
+      <namespace key="105" case="case-sensitive">Discussion Portail</namespace>
+      <namespace key="106" case="case-sensitive">Thésaurus</namespace>
+      <namespace key="107" case="case-sensitive">Discussion Thésaurus</namespace>
+      <namespace key="108" case="case-sensitive">Projet</namespace>
+      <namespace key="109" case="case-sensitive">Discussion Projet</namespace>
+      <namespace key="110" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="111" case="case-sensitive">Discussion Reconstruction</namespace>
+      <namespace key="112" case="case-sensitive">Tutoriel</namespace>
+      <namespace key="113" case="case-sensitive">Discussion Tutoriel</namespace>
+      <namespace key="114" case="case-sensitive">Rime</namespace>
+      <namespace key="115" case="case-sensitive">Discussion Rime</namespace>
+      <namespace key="116" case="case-sensitive">Conjugaison</namespace>
+      <namespace key="117" case="case-sensitive">Discussion Conjugaison</namespace>
+      <namespace key="118" case="case-sensitive">Racine</namespace>
+      <namespace key="119" case="case-sensitive">Discussion Racine</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Discussion module</namespace>
+      <namespace key="1198" case="case-sensitive">Translations</namespace>
+      <namespace key="1199" case="case-sensitive">Translations talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>constats</title>
+    <ns>0</ns>
+    <id>332279</id>
+    <revision>
+      <id>22602613</id>
+      <parentid>22256675</parentid>
+      <timestamp>2017-04-28T03:39:01Z</timestamp>
+      <contributor>
+        <username>Baltic Bot</username>
+        <id>127589</id>
+      </contributor>
+      <minor />
+      <comment>Retrait des liens interlangues qui sont maintenant gérés automatiquement par [[mw:Extension:Cognate]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" xml:space="preserve">== {{langue|fr}} ==
+
+=== {{S|nom|fr|flexion}} ===
+{{fr-rég|s=constat|kɔ̃s.ta}}
+'''constats''' {{pron|kɔ̃s.ta|fr}} {{m}}
+# ''Pluriel de'' [[constat#fr|constat]].</text>
+      <sha1>sgn5jc9acpkpmm6qah7l5b2cwl3312s</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,8 +1,16 @@
-from languages import Language
+import re
+
+import wikitextparser as wtp
+
+from language_parsers._language_pair_parser import LanguagePairParser
 
 
-class French(Language):
-    WORD_TYPES = [
+class French2French(LanguagePairParser):
+    """
+    French terms from the French wiktionary dump (frwiktionary)
+    """
+    target_language_code = 'fr'
+    word_types = [
         'adjectif',
         'adverbe',
         'adverbe indéfini',
@@ -71,7 +79,7 @@ class French(Language):
         'gismu',
         'rafsi',
     ]
-    GRAMMAR_TYPES = [
+    grammar_types = [
         "abréviation",
         "ablatif",
         "absolument",
@@ -233,3 +241,37 @@ class French(Language):
         "vulgarité",
         "X-SAMPA",
     ]
+    term_pattern = r"(?P<word_template>^=== {{S\|(?P<word_type>" + '|'.join(word_types) + ")\|" + target_language_code + "(?:\||}}).*)(?:.*\n)+?(?P<title_group>^'''.*\n)(?:^[^#].*\n)*(?P<defs>(?:^#.*\n?)*)"
+
+
+    @staticmethod
+    def get_ipa(term_match):
+        title_line = term_match['title_group']
+        title_line_regex = re.compile(r"^'''(?P<title>.+)(?=''')'''\s?(?:{{pron\|(?P<ipa>[^|]*)\|[^}]+}}(?P<rest>.*))?", re.IGNORECASE)
+        match = title_line_regex.search(title_line)
+        if match is None:
+            return ''
+        return match['ipa'] or ''
+
+    @staticmethod
+    def get_pos(term_match):
+        return term_match['word_type'] or ''
+
+    def get_definitions(self, term_match):
+        defs = term_match['defs']
+        if defs == '':
+            return ''
+        definition_regex = re.compile(r"^#\s?(?:{{(?P<grammar>[^|}]+)(?:\|\w+)?}}\s?)?(?P<rest>.*)", re.IGNORECASE | re.MULTILINE)
+        definitions = []
+        def_list = wtp.parse(defs).get_lists()[0]
+        for i, definition in enumerate(def_list.fullitems):
+            match = definition_regex.search(definition)
+            grammar_type = match['grammar']
+            rest = match['rest']
+            plain_text = self.parse_text(rest)
+            d = str(i+1) + '.'
+            if grammar_type and grammar_type.lower() in self.grammar_types:
+                d += f' ({grammar_type})'
+            d += f' {plain_text}'
+            definitions.append(d)
+        return '\n'.join(definitions)
