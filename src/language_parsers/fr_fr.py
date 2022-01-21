@@ -241,8 +241,7 @@ class French2French(LanguagePairParser):
         "vulgarité",
         "X-SAMPA",
     ]
-    term_pattern = r"(?P<word_template>^=== {{S\|(?P<word_type>" + '|'.join(word_types) + ")\|" + target_language_code + "(?:\||}}).*)(?:.*\n)+?(?P<title_group>^'''.*\n)(?:^[^#].*\n)*(?P<defs>(?:^#.*\n?)*)"
-
+    term_pattern = r"(?P<word_template>^=== {{S\|(?P<word_type>" + '|'.join(word_types) + r")\|" + target_language_code + r"(?:\||}}).*)(?:.*\n)+?(?P<title_group>^'''.*\n)(?:^[^#].*\n)*(?P<defs>(?:^#.*\n?)*)"
 
     @staticmethod
     def get_ipa(term_match):

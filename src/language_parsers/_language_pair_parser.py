@@ -5,7 +5,6 @@ from typing import Iterable, Match, Tuple
 
 import wikitextparser as wtp
 
-NAMESPACE = 'http://www.mediawiki.org/xml/export-0.10/'
 PAGE_REGEX = re.compile(rb"<page>.*?<title>(?P<title>.*?)</title>.*?<text[^>]+>(?P<text>.*?)\s*</text>.*?</page>", re.MULTILINE | re.DOTALL)
 
 

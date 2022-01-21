@@ -3,8 +3,7 @@ import sys
 import json
 import argparse
 from typing import Type
-from pathlib import Path
-from multiprocessing import Pool, cpu_count
+from multiprocessing import Pool
 
 from tqdm import tqdm
 
@@ -56,7 +55,7 @@ def get_parser(
     lookup_key = f'{dump_language_code}_{definition_language_code}'
     try:
         parser_class = LANGUAGE_PAIR_PARSERS[lookup_key]
-    except KeyError as e:
+    except KeyError:
         msg = f'Language pair not found for dump language {dump_language_code} and definition language {definition_language_code}'
         exit(msg)
     parser = parser_class(input_file_path)
