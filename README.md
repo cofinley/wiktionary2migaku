@@ -10,7 +10,7 @@ Before continuing, check the [languages](./src/language_parsers) folder to see i
 
 ## Created Dictionaries
 
-- [French](https://drive.google.com/file/d/1PoU1rbaaqtMWIiYagnk4P4d1v8FiuFDS/view?usp=sharing)
+- [French](https://github.com/cofinley/wiktionary2migaku/releases/download/0.1.0/Wiktionary-French-Monolingual.zip)
 
 ## Installation
 
